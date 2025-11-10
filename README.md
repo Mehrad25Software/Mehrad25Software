@@ -76,7 +76,7 @@
 
 ### 📫 Reach Me
 - **LinkedIn:** [linkedin.com/in/mehrad-mostaan](https://www.linkedin.com/in/mehrad-mostaan)
-- **Email:** [mehradmostaan.software@email.com](mailto:mehradmostaan.software@gmail.com)
+- **Email:** [mehradmostaan.software@gmail.com](mailto:mehradmostaan.software@gmail.com)
 
 
 ![snake gif](https://raw.githubusercontent.com/Mehrad25Software/Mehrad25Software/output/snake.svg)
