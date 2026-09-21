@@ -56,7 +56,7 @@
 #### Data Processing & Analytics
 | Pandas | NumPy | Matplotlib | Seaborn | Polars | Jupyter Notebook |
 |--------|-------|------------|---------|--------|------------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.png" height="40"/> | <img src="https://raw.githubusercontent.com/pola-rs/polars/main/assets/polars_logo.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/> | <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/> | <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo-symbol-only.svg" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40"/> |
 
 
 
